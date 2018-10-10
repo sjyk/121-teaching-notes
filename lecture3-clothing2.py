@@ -1,3 +1,6 @@
+"""
+Is this equivalent to program 1?
+"""
 
 rain = True
 wind = False
