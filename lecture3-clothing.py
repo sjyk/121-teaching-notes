@@ -1,3 +1,6 @@
+"""
+Program 1 describing control structures
+"""
 
 rain = True
 wind = True
